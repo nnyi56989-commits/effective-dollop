@@ -1,5 +1,10 @@
 fastapi
 uvicorn
+groq
+edge-tts
+python-multipart
 google-genai
 pydantic
 python-dotenv
+requests
+aiofiles
