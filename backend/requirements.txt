@@ -1,1 +1,5 @@
-KOPHYOE_RECAP_WebApp_Starter -> backend -> requirements.txt
+fastapi
+uvicorn
+google-genai
+pydantic
+python-dotenv
